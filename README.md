@@ -1,2 +1,3 @@
 # RSBot
+First RSbot...
 To farm more gold and exp.
