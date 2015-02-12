@@ -1,3 +1,5 @@
+package tutorial;
+
 import org.powerbot.script.ClientAccessor;
 import org.powerbot.script.ClientContext;
 

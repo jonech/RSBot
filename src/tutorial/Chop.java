@@ -1,3 +1,5 @@
+package tutorial;
+
 import org.powerbot.script.rt6.ClientContext;
 import org.powerbot.script.rt6.GameObject;
 
