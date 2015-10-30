@@ -5,7 +5,8 @@ import org.powerbot.script.rt6.GameObject;
 
 
 public class Chop extends Task<ClientContext>{
-
+	
+	// store tree id in an array
 	private int[] treeIds = {38616, 38627, 58006};
 	
 	public Chop(ClientContext ctx) {
