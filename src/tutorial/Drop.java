@@ -8,6 +8,7 @@ import org.powerbot.script.rt6.Item;
 
 public class Drop extends Task<ClientContext> {
 	
+	// id for log
 	private int logId = 1511;
 	
 	public Drop(ClientContext ctx) {
