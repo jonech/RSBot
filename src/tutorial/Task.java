@@ -5,6 +5,7 @@ import org.powerbot.script.ClientContext;
 
 
 public abstract class Task <C extends ClientContext> extends ClientAccessor<C>{
+	// abstract class for task
 	
 	public Task(C ctx) {
 		super(ctx);

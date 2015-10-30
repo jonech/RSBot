@@ -24,6 +24,7 @@ public class PowerChopper extends PollingScript<ClientContext>{
 	public void poll() {
 		for (Task task : taskList) {
 			if (task.activate()) {
+				// execute task
 				task.execute();
 			}
 		}
