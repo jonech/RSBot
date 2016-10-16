@@ -1,2 +1,2 @@
 # RSBot
-Botting on Runescape
+Botting on Runescape.
