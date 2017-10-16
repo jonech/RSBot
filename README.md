@@ -1,3 +1,4 @@
 # RSBot
 Botting on Runescape....
-2017
+and also for
+hacktoberfest 2017
